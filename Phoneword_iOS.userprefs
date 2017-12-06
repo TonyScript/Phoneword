@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B447600D-5D7F-4A86-A64B-738C36D31EC1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword_iOS/ViewController.cs">
+    <Files>
+      <File FileName="Phoneword_iOS/ViewController.cs" Line="52" Column="6" />
+      <File FileName="Phoneword_iOS/Info.plist" />
+      <File FileName="Phoneword_iOS/CallHistoryController.cs" Line="45" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Phoneword__iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6898598F-C1C6-4480-9609-B0CCA1E03A30" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
